@@ -1,0 +1,11 @@
+corridorid,region,techcluster,indicator,unit,baselinevalue,projectedvalue,ecoimpactscore01,year
+PHX-GRID-001,Phoenix-AZ-US,smartgrid,gridlossespercent,percent,8.0,2.0,0.78,2026
+PHX-BLD-001,Phoenix-AZ-US,smartbuilding,buildingenergyintensitykwhm2yr,kwhperm2yr,220,150,0.72,2026
+PHX-ROOF-001,Phoenix-AZ-US,greenroof,roofpeaktempreductioncelsius,celsius,0,12,0.65,2026
+PHX-WATER-001,Phoenix-AZ-US,waterreuse,potablewaterusereductionpercent,percent,0,25,0.70,2026
+PHX-AIR-DRONE-001,Phoenix-AZ-US,airqualitydrone,pm25hotspotsmappedpermonth,count,2,18,0.80,2026
+PHX-IOT-001,Phoenix-AZ-US,sensormesh,activeenvsensorscount,count,50,420,0.75,2026
+PHX-MOB-EBUS-001,Phoenix-AZ-US,emobility,dieselbuskmreplacedbyevmillionkm,kmmillion,0,3.5,0.77,2026
+PHX-TRAFFIC-001,Phoenix-AZ-US,adaptivesignals,avgtraveltimereductionpercent,percent,0,12,0.68,2026
+PHX-MAT-001,Phoenix-AZ-US,circularmaterials,embodiedco2reductionpercentnewbuilds,percent,0,30,0.74,2026
+PHX-GREEN-001,Phoenix-AZ-US,urbanecosystem,treecanopyincreasepercent,percent,0,8,0.69,2026
